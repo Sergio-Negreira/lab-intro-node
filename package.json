@@ -21,6 +21,11 @@
   "author": "fer@ironhack.com",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.17.1",
     "mocha": "^7.1.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
 }
